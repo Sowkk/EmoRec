@@ -1,6 +1,6 @@
 # EmoRec: Emotion Recognition on Song Lyrics using Transformer-based Model Distilbert
 ## Introduction
-EMOREC (Emotion Recognition on Song Lyrics using Transformer-based Model Distilbert) is a project aimed at classifying the emotional content of songs based on their lyrics or MIDI representations. Leveraging Natural Language Processing (NLP) techniques and models like DistilBERT, EMOREC offers a nuanced understanding of emotions expressed in song lyrics.
+EmoRec is a project aimed at classifying the emotional content of songs based on their lyrics or MIDI representations. Leveraging Natural Language Processing (NLP) techniques and models like DistilBERT, EMOREC offers a nuanced understanding of emotions expressed in song lyrics.
 
 ## Project Overview
 The project involves developing NLP models trained on emotion-labeled datasets like GoEmotions. These models are then used to classify emotions in song lyrics extracted from various sources, including MIDI files, audio files, and video files.
@@ -14,7 +14,7 @@ The project involves developing NLP models trained on emotion-labeled datasets l
 2. Install Dependencies:
 
 ##
-     pip install -r requirements.txt
+    py -m pip install -r requirements.txt
 
 3. Run the Main Script:
 
